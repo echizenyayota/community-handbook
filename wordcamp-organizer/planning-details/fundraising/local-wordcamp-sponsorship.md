@@ -1,9 +1,27 @@
 # Local WordCamp Sponsorship
 
+# ローカルWordcampスポンサーシップ
+
 <p>WordCamps are a great opportunity for companies that benefit from a free and open source software like WordPress to give back to the project that’s given them so much. Many companies are built around WordPress. A company that sponsors might have a lot of customers who love WordPress; other companies might just use WordPress, love it, and want to give back.</p>
+
+/* <p>WordCampはWordPressのようなオープンソースソフトウェアからの恩恵を被った企業にとって、そのたくさんの恩恵をもたらしたWordPressプロジェクトに恩返しができる絶好の機会です。
+多くの企業がWordPressの周りで立ち上げられています。WordCampのスポンサーをしているある会社はWordPressを愛する数多くの顧客を持っているかもしれません。 また他のある会社はWordPresを使っているだけかもしれませんし、WordPressを愛しているかもしれませんし、恩返しをしたいかもしれません。</p> */ 
+
+
 <h2>WordCamp sponsorship packages</h2>
+
+/* <h2>WordCamp スポンサーパッケージ</h2> */
+
 <p>Setting up your local sponsorship packages can be a challenge. Not everyone is accustomed to fundraising, and some organizers develop a nasty case of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a> when they start looking at how to acknowledge companies that give their event a chunk of cash to help make WordCamp happen. The WordCamp program has an established set of sponsorship rules, which apply to your event. So how do you set up WordCamp sponsorship packages that show gratitude to your sponsors but don’t give away the store?</p>
+
+/* <p>各地域で開催されるWordCampのローカルスポンサーとなることは、大いなる挑戦になるかもしれません。誰も必要な資金を集めることに慣れていません。また実行委員のうち何人かは、WordCampのイベントに資金を提供する支会社を探し始めたとき、<a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4#:~:text=%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC,%E4%B8%AD%E3%81%AB%E5%A4%9A%E3%81%8F%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E3%80%82">インポスター症候群</a>にかかります。WordCampプログラムには確立されたスポンサーシップのルールブックがあります。そのことはあなたのイベントにも当てはまります。では何かの商売に寄付をするわけではなく、スポンサーシップに対して感謝の意を表すWordCampのスポンサーシッププログラムはどのように成り立っているのでしょうか？</p> */
+
+
 <p>We’ve assembled some common WordCamp sponsor acknowledgement methods that are appropriate, respectful of attendees, and easy for your volunteer organizing team to follow through on.  Mix and match to create your own packages*!</p>
+
+/*<p>（私たちは）御社がWordCampのスポンサーとしてふさわしく、参加者から尊敬され、かつボランティアの精神で集まった実行委員が行うであろう汎用的な認知手段をまとめました。ぜひ貴社自身のスポンサーパッケージを組み合わせてください。</p> */
+
+
 <ul>
 <li>Logo on the site</li>
 <li>Company description on the site</li>
@@ -17,9 +35,37 @@
 <li>Thank you in opening or closing remarks (good for the top package)</li>
 <li>A table at the event in a high traffic area (good for the top package)</li>
 </ul>
+
+/* <ul>
+<li>ロゴの掲載</li>
+<li>会社概要の掲載</li>
+<li>Webサイトにおいてイベント実施前にすべてのスポンサー企業に対して謝意の表明</li>
+<li>スポンサー企業の代表者に対して、予約もしくは無料チケットの提供</li>
+<li>スポンサー企業共同ブースにおける一定種類のノベルティグッズの設置</li>
+<li>セッション休憩時間におけるロゴの投影</li>
+<li>公式Twitterアカウント・公式Facebookページにおいて謝意を表明するための投稿</li>
+<li>参加者がつけるバッジにロゴを掲載 (おすすめ)</li>
+<li>イベント前・イベント後にE-mailによる謝意の表明 (おすすめ)</li>
+<li>イベント開会時、閉会時における謝意の表明 (おすすめ)</li>
+<li>スポンサー企業専用ブースの設置 (おすすめ)</li>
+</ul>*/
+
+
 <p>*You don’t have to use all of them! Really!</p>
+
+/* <p>*これらの特典をすべて使う必要はありません。</p> */
+
 <p>In general, sponsors are not looking for a laundry list of perks, they want to support WordCamp and WordPress.  Offering space for your top sponsors to connect with the attendees is generally the most desirable benefit, but not a requirement. Certainly attendees should never be inconvenienced by sponsor acknowledgement, and WordCamps never provide a speaker slot or attendee information to sponsors.</p>
+
+/* <p>一般的にスポンサー企業はたくさんの特典を求めているわけではありません。スポンサー企業はWordCampとWordPressを支援したいのです。
+スポンサー企業が参加者とのつながりを持つためにスペースを提供することは、一般的にもっとも望ましい恩恵であり、必須のことではありません。
+確実に言えることは、出席者はスポンサー企業の認知活動によって不便を被るべきではありません。またWordCampはスピーカーや出席者の個人情報を提供することはありません。</p> */
+
 <p>More questions? Ask our Sponsorship Squad in the #community-events channel at wordpress.slack.com!</p>
+
+/* <p>他に何か質問はありますか？ もし何か質問がありましたら、Slack(wordpress.slack.com) の #community-events チャンネルでスポンサーチームに質問を投稿してみてください。</p> */
+
+
 <div id="content-8474" class="postcontent">
 <h2>WordCamp sponsorship rules (For WordCamps  on or after 2017)</h2>
 <table>
