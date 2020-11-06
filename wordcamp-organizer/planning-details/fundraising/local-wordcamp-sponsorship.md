@@ -2,7 +2,7 @@
 
 /* <p>WordCamps are a great opportunity for companies that benefit from a free and open source software like WordPress to give back to the project that’s given them so much. Many companies are built around WordPress. A company that sponsors might have a lot of customers who love WordPress; other companies might just use WordPress, love it, and want to give back.</p> */
 
-/* # ローカルWordCamp スポンサーシップ */
+/* # ローカル WordCamp スポンサーシップ */
 
 /* <p>WordCamp は WordPress のようなオープンソースソフトウェアからの恩恵を被った企業にとって、そのたくさんの恩恵をもたらした WordPress プロジェクトに恩返しができる絶好の機会です。多くの企業が WordPress の周りで立ち上げられています。WordCamp のスポンサーをしているある会社は WordPress を愛する数多くの顧客を持っているかもしれません。 また他のある会社は WordPres を使っているだけかもしれませんし、 WordPress を愛しているかもしれませんし、恩返しをしたいかもしれません。</p> */ 
 
