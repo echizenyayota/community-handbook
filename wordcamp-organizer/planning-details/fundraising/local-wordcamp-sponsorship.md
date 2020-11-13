@@ -11,7 +11,7 @@
 /* <p>Setting up your local sponsorship packages can be a challenge. Not everyone is accustomed to fundraising, and some organizers develop a nasty case of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a> when they start looking at how to acknowledge companies that give their event a chunk of cash to help make WordCamp happen. The WordCamp program has an established set of sponsorship rules, which apply to your event. So how do you set up WordCamp sponsorship packages that show gratitude to your sponsors but don’t give away the store?</p> */
 /* <p>We’ve assembled some common WordCamp sponsor acknowledgement methods that are appropriate, respectful of attendees, and easy for your volunteer organizing team to follow through on.  Mix and match to create your own packages*!</p> */
 
-### WordCamp スポンサーパッケージ
+## WordCamp スポンサーパッケージ
 
 <p>各地域で開催される WordCampのローカルスポンサーとなることは、大いなる挑戦になるかもしれません。誰も必要な資金を集めることに慣れていません。また実行委員のうち何人かは、 WordCamp のイベントに資金を提供する支会社を探し始めたとき、<a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4#:~:text=%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC,%E4%B8%AD%E3%81%AB%E5%A4%9A%E3%81%8F%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E3%80%82">インポスター症候群</a>にかかります。 WordCamp プログラムには確立されたスポンサーシップのルールブックがあります。そのことはあなたのイベントにも当てはまります。では何かの商売に寄付をするわけではなく、スポンサーシップに対して感謝の意を表す WordCamp のスポンサーシッププログラムはどのように成り立っているのでしょうか？</p>
 
