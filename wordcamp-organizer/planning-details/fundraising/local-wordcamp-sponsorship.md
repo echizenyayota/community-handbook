@@ -29,9 +29,11 @@
 </ul>
 */
 
-<p>*You don’t have to use all of them! Really!</p>
-<p>In general, sponsors are not looking for a laundry list of perks, they want to support WordCamp and WordPress.  Offering space for your top sponsors to connect with the attendees is generally the most desirable benefit, but not a requirement. Certainly attendees should never be inconvenienced by sponsor acknowledgement, and WordCamps never provide a speaker slot or attendee information to sponsors.</p>
-<p>More questions? Ask our Sponsorship Squad in the #community-events channel at wordpress.slack.com!</p>
+/* <p>*You don’t have to use all of them! Really!</p> */
+
+/* <p>In general, sponsors are not looking for a laundry list of perks, they want to support WordCamp and WordPress.  Offering space for your top sponsors to connect with the attendees is generally the most desirable benefit, but not a requirement. Certainly attendees should never be inconvenienced by sponsor acknowledgement, and WordCamps never provide a speaker slot or attendee information to sponsors.</p> */
+
+/* <p>More questions? Ask our Sponsorship Squad in the #community-events channel at wordpress.slack.com!</p> */
 
 ## WordCamp スポンサーパッケージ
 
@@ -46,12 +48,18 @@
 <li>スポンサー企業の代表者に対して、予約もしくは無料チケットの提供</li>
 <li>スポンサー企業共同ブースにおける一定種類のノベルティグッズの設置</li>
 <li>セッション休憩時間におけるロゴの投影</li>
-<li>公式Twitterアカウント・公式Facebookページにおいて謝意を表明するための投稿</li>
+<li>公式 Twitter アカウント・公式 Facebook ページにおいて謝意を表明するための投稿</li>
 <li>参加者がつけるバッジにロゴを掲載（おすすめ）</li>
-<li>イベント前・イベント後にE-mailによる謝意の表明（おすすめ）</li>
+<li>イベント前・イベント後に E-mail による謝意の表明（おすすめ）</li>
 <li>イベント開会時、閉会時における謝意の表明（おすすめ）</li>
 <li>スポンサー企業専用ブースの設置（おすすめ）</li>
 </ul>
+
+<p>*これらの特典をすべて使う必要はありません。</p>
+
+<p>一般的にスポンサー企業はたくさんの特典を求めているわけではありません。スポンサー企業はWordCampとWordPressを支援したいのです。スポンサー企業が参加者とのつながりを持つためにスペースを提供することは、一般的にもっとも望ましい恩恵であり、必須のことではありません。確実に言えることは、出席者はスポンサー企業の認知活動によって不便を被るべきではありません。またWordCampはスピーカーや出席者の個人情報を提供することはありません。</p>
+
+<p>他に何か質問はありますか？ もし何か質問がありましたら、Slack(wordpress.slack.com) の #community-events チャンネルでスポンサーチームに質問を投稿してみてください。</p>
 
 <div id="content-8474" class="postcontent">
 <h2>WordCamp sponsorship rules (For WordCamps  on or after 2017)</h2>
