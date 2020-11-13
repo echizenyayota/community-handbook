@@ -8,7 +8,9 @@
 
 
 /* <h2>WordCamp sponsorship packages</h2> */
+
 /* <p>Setting up your local sponsorship packages can be a challenge. Not everyone is accustomed to fundraising, and some organizers develop a nasty case of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a> when they start looking at how to acknowledge companies that give their event a chunk of cash to help make WordCamp happen. The WordCamp program has an established set of sponsorship rules, which apply to your event. So how do you set up WordCamp sponsorship packages that show gratitude to your sponsors but don’t give away the store?</p> */
+
 /* <p>We’ve assembled some common WordCamp sponsor acknowledgement methods that are appropriate, respectful of attendees, and easy for your volunteer organizing team to follow through on.  Mix and match to create your own packages*!</p> */
 
 ## WordCamp スポンサーパッケージ
