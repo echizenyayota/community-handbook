@@ -13,12 +13,6 @@
 
 /* <p>We’ve assembled some common WordCamp sponsor acknowledgement methods that are appropriate, respectful of attendees, and easy for your volunteer organizing team to follow through on.  Mix and match to create your own packages*!</p> */
 
-## WordCamp スポンサーパッケージ
-
-<p>各地域で開催される WordCampのローカルスポンサーとなることは、大いなる挑戦になるかもしれません。誰も必要な資金を集めることに慣れていません。また実行委員のうち何人かは、 WordCamp のイベントに資金を提供する支会社を探し始めたとき、<a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4#:~:text=%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC,%E4%B8%AD%E3%81%AB%E5%A4%9A%E3%81%8F%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E3%80%82">インポスター症候群</a>にかかります。 WordCamp プログラムには確立されたスポンサーシップのルールブックがあります。そのことはあなたのイベントにも当てはまります。では何かの商売に寄付をするわけではなく、スポンサーシップに対して感謝の意を表す WordCamp のスポンサーシッププログラムはどのように成り立っているのでしょうか？</p>
-
-<p>（私たちは）御社が WordCamp のスポンサーとしてふさわしく、参加者から尊敬され、かつボランティアの精神で集まった実行委員が行うであろう汎用的な認知手段をまとめました。ぜひ貴社自身のスポンサーパッケージを組み合わせてください。</p>
-
 <ul>
 <li>Logo on the site</li>
 <li>Company description on the site</li>
@@ -35,6 +29,13 @@
 <p>*You don’t have to use all of them! Really!</p>
 <p>In general, sponsors are not looking for a laundry list of perks, they want to support WordCamp and WordPress.  Offering space for your top sponsors to connect with the attendees is generally the most desirable benefit, but not a requirement. Certainly attendees should never be inconvenienced by sponsor acknowledgement, and WordCamps never provide a speaker slot or attendee information to sponsors.</p>
 <p>More questions? Ask our Sponsorship Squad in the #community-events channel at wordpress.slack.com!</p>
+
+## WordCamp スポンサーパッケージ
+
+<p>各地域で開催される WordCampのローカルスポンサーとなることは、大いなる挑戦になるかもしれません。誰も必要な資金を集めることに慣れていません。また実行委員のうち何人かは、 WordCamp のイベントに資金を提供する支会社を探し始めたとき、<a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4#:~:text=%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC,%E4%B8%AD%E3%81%AB%E5%A4%9A%E3%81%8F%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E3%80%82">インポスター症候群</a>にかかります。 WordCamp プログラムには確立されたスポンサーシップのルールブックがあります。そのことはあなたのイベントにも当てはまります。では何かの商売に寄付をするわけではなく、スポンサーシップに対して感謝の意を表す WordCamp のスポンサーシッププログラムはどのように成り立っているのでしょうか？</p>
+
+<p>（私たちは）御社が WordCamp のスポンサーとしてふさわしく、参加者から尊敬され、かつボランティアの精神で集まった実行委員が行うであろう汎用的な認知手段をまとめました。ぜひ貴社自身のスポンサーパッケージを組み合わせてください。</p>
+
 <div id="content-8474" class="postcontent">
 <h2>WordCamp sponsorship rules (For WordCamps  on or after 2017)</h2>
 <table>
